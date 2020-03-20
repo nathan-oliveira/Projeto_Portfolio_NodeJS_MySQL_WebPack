@@ -8,7 +8,7 @@ class IndexController{
     getTodosIndex(divPortfolios){
         let promise = new Promise(function(resolve, reject){
             let promiseFetch = PortfolioModel.getTodos();
-            
+
             promiseFetch.then(response =>{
                 resolve(response);
             });
