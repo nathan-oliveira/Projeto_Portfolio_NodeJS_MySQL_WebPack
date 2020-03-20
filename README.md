@@ -13,8 +13,8 @@ Projeto Home Page de Portfólio de Serviços
 </p>
 
 [//]: # (Add your gifs/images here:)
-<div>
-  <img src="https://raw.githubusercontent.com/nathan-oliveira/projeto-portfolio-nodejs-mysql-webpack/master/Print_Projeto.PNG" alt="demo" height="425">
+<div align="center">
+  <img src="./Print_Projeto.PNG" alt="demo" height="425">
 </div>
 
 <hr />
