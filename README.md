@@ -4,8 +4,6 @@
   NodeJS, Express, Webpack e outras tecnologias
 </h1>
 
-<p align="center">A little description about your project</p>
-
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
