@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
+  <img src="YOUR_LOGO_URL" alt="Projeto Home Page de Portfólio de Serviços" width="120">
 <br>
-Projeto Home Page de Portfólio de Serviços
+NodeJS, Express, Webpack e outras tecnologias
 </h1>
 
 <p align="center">A little description about your project</p>
