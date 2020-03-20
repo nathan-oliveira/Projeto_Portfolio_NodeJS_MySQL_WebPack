@@ -1,0 +1,2 @@
+INSERT INTO portfolio VALUES(1, 'Desenvolvimento de WebSites', 'tecnologias JavaScript, NodeJS, Express e MySQL');
+INSERT INTO portfolio VALUES(2, 'Desenvolvimento de APIs', 'tecnologias JavaScript, NodeJS, Express e MySQL');
